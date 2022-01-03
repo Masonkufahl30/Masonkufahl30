@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masonkufahl30
-- 👀 I’m interested in ... travel, music/theatre, food, fashion, sports
-- 🌱 I’m currently learning ...Cs50
+- 👀 I’m interested in ... travel, music/theatre, food, fashion, sports, tech, science
+- 🌱 I’m currently learning ...Harvard CS50
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... Masonkufahl30@gmail.com
 
